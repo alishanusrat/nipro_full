@@ -204,8 +204,8 @@ font-size:30px;
 font-weight:400;
 color:#333333;
 }
-.ab_text p1{
-
+.ab_text p{
+text-align:justify;
 }
 .ab_text a{
 

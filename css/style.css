@@ -427,6 +427,7 @@ form input:hover{
 
 /*contact end*/
 
+
 /*price start*/
 .price_item ul li{
 	list-style: none;
@@ -435,11 +436,62 @@ form input:hover{
 	font-size: 40px;
 	color:#333333;
 }
+
+.price_button button{
+
+	border:1px solid #333333;
+	border-radius: 0;
+    margin-top: 6px;
+        padding: 0 26px 10px;
+}
+.price_button button a{
+    font-family:roboto-regular;
+	font-size:16px;
+	font-weight:500;
+	color:#333333 !important;
+	text-transform: uppercase;
+	text-decoration:none;
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	 padding: 0px 25px 3px;
+}
+.price_button button a i{
+	padding-top: 5px;
+    padding-left: 20px;
+}
+/*small start*/
 .small{
+	margin-top:60px;
+		margin-bottom:60px;
 	background-color: #f8f8f8;
 }
 .small_item p{
-	padding-top: 60px;
+	padding-top: 21px;
 }
+.small_button button{
+
+	border:1px solid #333333;
+	border-radius: 0;
+	    padding: 2px 10px;
+    margin-top: 6px;
+}
+.small_button button a{
+    font-family:roboto-regular;
+	font-size:16px;
+	font-weight:500;
+	color:#333333 !important;
+	text-transform: uppercase;
+	text-decoration:none;
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	 padding:10px 25px;
+}
+.small_button button a i{
+	padding-top: 5px;
+    padding-left: 20px;
+}
+
 
 
